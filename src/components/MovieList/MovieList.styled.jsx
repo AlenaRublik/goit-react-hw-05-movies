@@ -3,6 +3,7 @@ import styled from '@emotion/styled';
 export const List = styled.ul`
   display: grid;
   grid-template-columns: repeat(auto-fill, 251px);
+  margin-top:25px;
   gap: 27px;
 `;
 
